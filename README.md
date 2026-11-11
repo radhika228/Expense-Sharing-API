@@ -27,7 +27,7 @@ A backend application built using Python, FastAPI, and SQLite to manage shared e
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/radhika228/Expense-Sharing-API.git
 ```
 
 ### 2. Navigate to the project folder
