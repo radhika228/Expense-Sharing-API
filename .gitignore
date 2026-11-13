@@ -1,7 +1,9 @@
-venv/
-.venv/
-__pycache__/
-*.py[cod]
-.pytest_cache/
-expense.db
 .env
+.env.*
+!.env.example
+*.db
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
